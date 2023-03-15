@@ -22,6 +22,11 @@ public class Tamagotchi {
         this.tiempoEnMinutos = 0;
     }
 
+    //Constructor que crée para el test unitario:
+    public Tamagotchi(String nombre){
+        this.nombre = nombre;
+    }
+
     //Métodos:
     public void comer(){
         switch (this.estado){
