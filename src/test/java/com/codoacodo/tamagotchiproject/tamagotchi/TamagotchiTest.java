@@ -1,6 +1,5 @@
-package tamagotchi;
+package com.codoacodo.tamagotchiproject.tamagotchi;
 
-import com.codoacodo.tamagotchiproject.tamagotchi.Tamagotchi;
 import org.junit.Assert;
 import org.junit.Test;
 
